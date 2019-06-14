@@ -3,7 +3,7 @@
 
 <zk xmlns="http://www.zkoss.org/2005/zul">
 <window>
-	My ZK application
+	percobaan dengan GITHUB
      <vbox>
        <label id="lblJml"/>
        <hbox>

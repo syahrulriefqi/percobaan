@@ -3,9 +3,9 @@
 
 <zk xmlns="http://www.zkoss.org/2005/zul">
 <window>
-	percobaan dengan GITHUB hhhhh
+ hhdfdsfsfsfsdf
      <vbox>
-       <label id="lblJml"/>
+       <label id="lblJml" value="dddfdfgfdg"/>
        <hbox>
        <button label="Add" id="btnAdd" mold="os" image="/img/tambah.png"/>
        <button label="Edit" id="btnEdit" mold="os" image="/img/edit.png"/>

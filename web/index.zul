@@ -5,7 +5,7 @@
 <window>
 	percobaan dengan GITHUB hhhhh
      <vbox>
-       <label id="lblJml"/>
+       <label id="lblJml" value="tes"/>
        <hbox>
        <button label="Add" id="btnAdd" mold="os" image="/img/tambah.png"/>
        <button label="Edit" id="btnEdit" mold="os" image="/img/edit.png"/>
